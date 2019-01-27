@@ -1,0 +1,1 @@
+Since the develop of the Web 2.0, Google as one of the most popular search engine in the world,  there are many algorithms in the web search. Accordingly, implementations of link analysis algorithms will typical discount such 

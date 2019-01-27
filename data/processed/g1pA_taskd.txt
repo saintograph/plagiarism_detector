@@ -1,0 +1,1 @@
+Bayes' theorem relates the conditional and marginal probabilities of two random events and is named after the Reverend Thomas Bayes (1702

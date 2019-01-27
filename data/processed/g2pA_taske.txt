@@ -1,0 +1,1 @@
+Dynamic Programming is a very powerful mathematical technique, often utilised in programming, for solving optimization problems. Normally, minimizing or maximizing.

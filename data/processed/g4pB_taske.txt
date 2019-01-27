@@ -1,0 +1,13 @@
+In mathematics and computer science, dynamic programming is a method of solving problems that exhibit the properties of overlapping subproblems and optimal substructure.
+ 
+The word "programming" in "dynamic programming" has no particular connection to computer programming at all, and instead comes from the term "mathematical programming", a synonym for optimization. Programming, in this sense, means finding an acceptable plan of action, an algorithm.
+
+Optimal substructure means that optimal solutions of subproblems can be used to find the optimal solutions of the overall problem. In general, we can solve a problem with optimal substructure using a three-step process:
+
+   1. Break the problem into smaller subproblems.
+   2. Solve these problems optimally using this three-step process recursively.
+   3. Use these optimal solutions to construct an optimal solution for the original problem.
+
+The subproblems are, themselves, solved by dividing them into sub-subproblems, and so on, until we reach some simple case that is solvable in constant time.
+
+To say that a problem has overlapping subproblems is to say that the same subproblems are used to solve many different larger problems. For example, in the Fibonacci sequence, F3 = F1 + F2 and F4 = F2 + F3 

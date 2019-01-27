@@ -1,0 +1,6 @@
+Inheritance allows programs developed in an Object Orientated language to reuse code without having it replicated unnecessarily elsewhere within the program.
+
+To achieve this, the programmer has to note generalisations and similarities about various aspects of the program. 
+
+For example, a program could exist to model different forms of transport. At first glance, a car and a train may not have much in common. But abstractly, both will have a speed at which they are travelling, a direction, and a current position.
+Methods utilising this data can be specified high up in the inheritance hierarchy, for example in a 

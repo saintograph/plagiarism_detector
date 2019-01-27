@@ -1,0 +1,1 @@
+PageRank is an algorithm that was developed by Google to provide the most relevant search results to its users queries.  PageRank, along with similar algorithms developed by Google

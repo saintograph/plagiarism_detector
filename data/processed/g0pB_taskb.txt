@@ -1,0 +1,2 @@
+PageRank (PR) refers to both the concept and the Google system used
+for ranking the importance of pages on the web. The 
